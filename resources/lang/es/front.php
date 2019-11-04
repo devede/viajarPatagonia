@@ -14,7 +14,7 @@ return [
   */
 
     //Header
-    'go_to_home' => 'Ir a la pagina principal',
+    'go_to_home' => 'Ir a la página principal',
     'home' => 'inicio',
     'hotels' => 'hoteles',
     'cars' => 'autos',
